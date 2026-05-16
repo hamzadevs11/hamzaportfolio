@@ -21,7 +21,7 @@ export default function Hero() {
           className="absolute inset-0 w-full h-full object-cover opacity-40 grayscale mix-blend-screen scale-105"
         >
           {/* High-end abstract dark fluid/smoke video placeholder */}
-          <source src="https://vamwyouzculrmxlxqkwe.supabase.co/storage/v1/object/public/hero-portfolio-video/3068-165796695_medium.mp4" type="video/mp4" />
+          <source src="https://vamwyouzculrmxlxqkwe.supabase.co/storage/v1/object/public/hero-portfolio-video/141309-777508139_medium.mp4" type="video/mp4" />
         </video>
         
         {/* Gradients to fade video out into the page body smoothly */}
