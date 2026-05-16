@@ -6,6 +6,7 @@ export const projects = [
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
     image: "savoria-hero.png",
     liveUrl: "https://restaurant-savoria.vercel.app",
+    githubUrl: "https://github.com/hamzadevs11/Savoria-Restaurant", // <-- Link added here
   },
   {
     id: "2",
@@ -14,13 +15,15 @@ export const projects = [
     tags: ["React", "Framer Motion", "GSAP", "Next.js"],
     image: "portfolio.png",
     liveUrl: "https://hamza.devs.netlify.app",
+    githubUrl: "", // <-- This is now empty
   },
   {
     id: "3",
     title: "Savoria - Admin & Analytics",
     description: "The operational core for Savoria. Features real-time order tracking, live kitchen status, dynamic menu management, and advanced revenue analytics with role-based access control.",
     tags: ["Next.js", "Shadcn UI", "Recharts", "NextAuth", "Tailwind"],
-    image: "savoria-admin.png", // Aap iska dashboard mockup screenshot use kar sakte hain
+    image: "savoria-admin.png", 
     liveUrl: "https://restaurant-savoria.vercel.app/admin",
+    githubUrl: "https://github.com/hamzadevs11/Savoria-Restaurant", // <-- Link added here
   },
 ];
