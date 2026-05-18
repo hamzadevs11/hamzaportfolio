@@ -14,7 +14,7 @@ export const projects = [
     description: "A high-end, performance-optimized digital experience using Framer Motion and custom CSS architecture. Achieves 100/100 Lighthouse scores",
     tags: ["React", "Framer Motion", "GSAP", "Next.js"],
     image: "portfolio.png",
-    liveUrl: "https://hamza-devs.netlify.app",
+    liveUrl: "https://hamza-devs.vercel.app",
     githubUrl: "https://github.com/hamzadevs11/hamza-devs", // <-- This is now empty
   },
   {
