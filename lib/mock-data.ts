@@ -15,7 +15,7 @@ export const projects = [
     tags: ["React", "Framer Motion", "GSAP", "Next.js"],
     image: "portfolio.png",
     liveUrl: "https://hamza-devs.netlify.app",
-    githubUrl: "", // <-- This is now empty
+    githubUrl: "https://github.com/hamzadevs11/hamza-devs", // <-- This is now empty
   },
   {
     id: "3",
