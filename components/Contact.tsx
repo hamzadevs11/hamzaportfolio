@@ -29,7 +29,7 @@ export default function Contact() {
         <p>© {new Date().getFullYear()} Hamza — HC Devs. All rights reserved.</p>
         <div className="flex gap-6 mt-4 md:mt-0">
           <a href="https://github.com/hamzadevs11" className="hover:text-accent transition-colors">GitHub</a>
-          <a href="https://www.linkedin.com/in/hamza-devs-67b00840a " className="hover:text-accent transition-colors">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/hamza-mohsin-67b00840a" className="hover:text-accent transition-colors">LinkedIn</a>
           <a href="https://x.com/hamzadevs" className="hover:text-accent transition-colors">Twitter</a>
         </div>
       </div>
